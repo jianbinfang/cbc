@@ -1,7 +1,9 @@
 CbC - Cflat Compiler
 ====================
 
-    This is the CbC, Cflat programming language compiler.
+    This is the CbC, Cflat programming language compiler.  
+    
+    This version has been revised to adapt to the x86_64 machines. 
 
 Requirements
 ------------
